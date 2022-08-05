@@ -1,0 +1,13 @@
+code: bndl-eng4051c
+description: This is the bundlejhipster710c bundle
+
+components:
+  plugins:
+    - plugins/bundlejhipster710c-plugin.yaml
+
+  widgets:
+    - ui/widgets/d-3-point/tableWidget/d-3-point-table-widget-descriptor.yaml
+    - ui/widgets/d-3-point/detailsWidget/d-3-point-details-widget-descriptor.yaml
+    - ui/widgets/d-3-point/formWidget/d-3-point-form-widget-descriptor.yaml
+# entando-needle-descriptor-add-widgets - Entando blueprint will add widget bundle files here
+

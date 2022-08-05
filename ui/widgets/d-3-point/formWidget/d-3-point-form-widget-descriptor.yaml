@@ -1,0 +1,6 @@
+code: d-3-point-form-widget
+titles:
+  en: D 3 Point Form Widget
+  it: D 3 Point Form Widget
+group: free
+customUiPath: d-3-point-form-widget.ftl
